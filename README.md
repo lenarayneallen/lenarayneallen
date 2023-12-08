@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+
+![Untitled_Artwork (1)](https://github.com/lenarayneallen/lenarayneallen/assets/124638335/8f1e607f-49e9-45e3-a11b-eae9e27c0cb8)
+
+
+
+
 
 <!--
 **lenarayneallen/lenarayneallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
