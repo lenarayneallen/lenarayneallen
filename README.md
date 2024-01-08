@@ -1,20 +1,20 @@
 ![Untitled_Artwork (1)](https://github.com/lenarayneallen/lenarayneallen/assets/124638335/8f1e607f-49e9-45e3-a11b-eae9e27c0cb8)
 
 ## 🧪 about me
-### 👩‍💻 i'm currently:
+### 👩‍💻 I'm currently:
 * Taking a gap year to learn the basics of bioinformatics 
 * Working through problem sets on the rosalind bioinformatics learning platform
 * Attempting to replicate scRNA-seq and RNA-seq analyses from recent papers in my field of interest
 
-### 📘 education:
+### 📘 Education:
 * I graduated with my B.S. in biology from the University of Georgia
 * I'm currently applying for master's programs in 2024!
   
-### 💡 i'm interested in:
+### 💡 I'm interested in:
 * Immune evasion in "immune cold" cancers such as Pancreatic Ductal Adenocarcinoma
 * Improving neoantigen prediction pipelines (one day!)
 
-### 🌟 my languages:
+### 🌟 My languages:
 [![My Skills](https://skillicons.dev/icons?i=r,python&theme=light)](https://skillicons.dev)
 
 
