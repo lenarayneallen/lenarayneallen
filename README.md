@@ -2,17 +2,17 @@
 
 ## 🧪 about me
 ### 👩‍💻 i'm currently:
-* taking a gap year to learn the basics of bioinformatics 
-* working through problem sets on the rosalind bioinformatics learning platform
-* attempting to replicate scRNA-seq and RNA-seq analyses from recent papers in my field of interest
+* Taking a gap year to learn the basics of bioinformatics 
+* Working through problem sets on the rosalind bioinformatics learning platform
+* Attempting to replicate scRNA-seq and RNA-seq analyses from recent papers in my field of interest
 
 ### 📘 education:
-* i graduated with my B.S. in biology from the University of Georgia
-* i'm currently applying for master's programs in 2024!
+* I graduated with my B.S. in biology from the University of Georgia
+* I'm currently applying for master's programs in 2024!
   
 ### 💡 i'm interested in:
-* immune evasion in "immune cold" cancers such as Pancreatic Ductal Adenocarcinoma
-* improving neoantigen prediction pipelines (one day!)
+* Immune evasion in "immune cold" cancers such as Pancreatic Ductal Adenocarcinoma
+* Improving neoantigen prediction pipelines (one day!)
 
 ### 🌟 my languages:
 [![My Skills](https://skillicons.dev/icons?i=r,python&theme=light)](https://skillicons.dev)
