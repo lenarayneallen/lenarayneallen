@@ -5,7 +5,7 @@
 * Taking a gap year to learn the basics of bioinformatics 
 * Working through problem sets on the rosalind bioinformatics learning platform
 * Attempting to replicate scRNA-seq and RNA-seq analyses from recent papers in my field of interest
-
+* Check out [my bioinformatics notes on notion](https://fluffy-adasaurus-ac9.notion.site/Lena-s-bioinformatics-notes-b0f9872b936f416487f18474ede29ba9)
 ### 📘 Education:
 * I graduated with my B.S. in biology from the University of Georgia
 * I'm currently applying for master's programs in 2024!
