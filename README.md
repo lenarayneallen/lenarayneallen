@@ -1,6 +1,6 @@
 ![Untitled_Artwork (1)](https://github.com/lenarayneallen/lenarayneallen/assets/124638335/8f1e607f-49e9-45e3-a11b-eae9e27c0cb8)
 
-## 🧪 about me
+## 🧪 About me
 ### :dna: Check out [my bioinformatics notes](https://fluffy-adasaurus-ac9.notion.site/Lena-s-bioinformatics-notes-b0f9872b936f416487f18474ede29ba9) on Notion!
 ### 👩‍💻 I'm currently:
 * Taking a gap year to learn the basics of bioinformatics 
