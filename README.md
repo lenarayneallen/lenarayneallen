@@ -6,7 +6,7 @@
 ### :computer:  Proficient in Python, R, Bash, SQL
 
 
-### :microscope:  Interested in supporting the development and administration of personalized cancer immunotherapies through bioinformatic analysis.
+### :microscope:  Interested in supporting the development of personalized cancer immunotherapies through bioinformatic analysis.
 
 ### :link:  Find me on [linkedin!](https://www.linkedin.com/in/lenarayneallen/)
 
