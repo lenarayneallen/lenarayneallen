@@ -1,7 +1,5 @@
 # Hi! I'm Lena:
 
-### :dna:  Graduate student in the [Bioinformatics and Genomics track of the Knight Campus Graduate Internship Program](https://internship.uoregon.edu/bioinformatics) at the University of Oregon.
-
 
 ### :computer:  Proficient in Python, R, Bash, SQL
 
