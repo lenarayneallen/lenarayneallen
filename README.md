@@ -1,12 +1,4 @@
-# Hi! I'm Lena:
 
-
-### :computer:  Proficient in Python, R, Bash, SQL
-
-
-### :microscope:  Interested in supporting discoveries in cancer biology through bioinformatic analysis.
-
-### :link:  Find me on [linkedin!](https://www.linkedin.com/in/lenarayneallen/)
 
 
 <!--
